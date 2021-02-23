@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="txt_dummy_name">Kristin Watson</string>
+    <string name="moscow_russia">Moscow, Russia </string>
+    <string name="txt_content_desc">text view</string>
+    <string name="txt_russia">Russia</string>
+    <string name="txt_jakarta_indonesia">Jakarta, Indonesia</string>
+    <string name="txt_jakarta">Jakarta</string>
+    <string name="txt_new_city">New City</string>
+</resources>
